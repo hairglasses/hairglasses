@@ -12,6 +12,8 @@ AI agent infrastructure engineer in San Francisco. Building production Go toolin
 
 **[python-marathon](https://github.com/hairglasses-studio/python-marathon)** — Rustlings-style Python interview prep with 61+ exercises across 4 tiers, pytest runner, XP tracking, and activity heatmaps.
 
+**[codexkit](https://github.com/hairglasses-studio/codexkit)** — Fleet management toolkit for AI agent repos. Baseline validation, skill sync, MCP profile management across a fleet of repositories. 12 MCP tools.
+
 ### Focus Areas
 
 - MCP protocol implementation and server frameworks (Go)
