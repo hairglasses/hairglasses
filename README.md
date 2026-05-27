@@ -1,28 +1,26 @@
 ## Mitch Not Mitchell
 
-AI agent infrastructure engineer in San Francisco. Building production Go tooling for MCP servers, multi-LLM orchestration, and desktop automation at [@hairglasses-studio](https://github.com/hairglasses-studio).
+AI agent infrastructure engineer in San Francisco. I build Go tooling for MCP servers, multi-provider coding-agent orchestration, and Linux/Wayland automation.
 
-### What I Build
+Most production repositories stay private because they contain workstation, account, tenant, or operational details. The public repositories below are sanitized slices that show the engineering patterns without exposing private systems.
 
-**[mcpkit](https://github.com/hairglasses-studio/mcpkit)** — Production Go toolkit for MCP servers. 72 packages across 4 dependency layers: typed handlers, middleware chains, RBAC, circuit breakers, FinOps budgeting, workflow engines, A2A bridge, and multi-protocol gateway. 85%+ test coverage, MCP 2025-11-25 spec compliance.
+### Public Portfolio
 
-**[ralphglasses](https://github.com/hairglasses-studio/ralphglasses)** — Multi-LLM agent orchestration TUI. Manages parallel Claude Code, Gemini CLI, and OpenAI Codex sessions from a k9s-style interface. 222 MCP tools, cost tracking, budget enforcement, and autonomous R&D loops.
+**[open-ralphglasses](https://github.com/hairglasses/open-ralphglasses)** — sanitized Go control-plane seed for multi-provider AI agent workflows: provider discovery, launch planning, hook review, loop planning, budget estimation, transcript inspection, and MCP-style tool contracts.
 
-**[dotfiles](https://github.com/hairglasses-studio/dotfiles)** — Full-stack development environment with 157 GPU-rendered GLSL shaders, 1,400+ MCP tools, and desktop automation for Hyprland/Sway on Wayland.
+**[codexkit](https://github.com/hairglasses-studio/codexkit)** — fleet management toolkit for agent repositories: baseline validation, skill-surface sync, MCP/profile projection, and workspace hygiene checks.
 
-**[python-marathon](https://github.com/hairglasses-studio/python-marathon)** — Rustlings-style Python interview prep with 61+ exercises across 4 tiers, pytest runner, XP tracking, and activity heatmaps.
-
-**[codexkit](https://github.com/hairglasses-studio/codexkit)** — Fleet management toolkit for AI agent repos. Baseline validation, skill sync, MCP profile management across a fleet of repositories. 12 MCP tools.
+**[dotfiles-mcp](https://github.com/hairglasses-studio/dotfiles-mcp)** — archived public compatibility mirror for a Linux/Wayland desktop automation MCP server; useful for discovery-first MCP contracts and server-card patterns.
 
 ### Focus Areas
 
-- MCP protocol implementation and server frameworks (Go)
-- Multi-provider LLM orchestration and cost optimization
-- Agent evaluation, guardrails, and safety patterns
-- Desktop automation and GPU shader pipelines
-- Production infrastructure: middleware, resilience, observability
+- Go MCP servers and typed tool contracts
+- Multi-provider agent orchestration across Codex, Claude, Gemini, and Copilot workflows
+- Repo baseline validation, generated config parity, and public/private boundary checks
+- Linux/Wayland automation with discovery-first control surfaces
+- Security-conscious portfolio publishing with sanitized fixtures and no tenant or credential data
 
 ### Links
 
-- Organization: [hairglasses-studio](https://github.com/hairglasses-studio)
-- Go packages: [pkg.go.dev/github.com/hairglasses-studio/mcpkit](https://pkg.go.dev/github.com/hairglasses-studio/mcpkit)
+- Public showcase: [open-ralphglasses](https://github.com/hairglasses/open-ralphglasses)
+- Studio org: [hairglasses-studio](https://github.com/hairglasses-studio)
