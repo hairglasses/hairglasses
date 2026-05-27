@@ -6,7 +6,7 @@ Most production repositories stay private because they contain workstation, acco
 
 ### Public Portfolio
 
-**[open-ralphglasses](https://github.com/hairglasses/open-ralphglasses)** — sanitized Go control-plane seed for multi-provider AI agent workflows: provider discovery, launch planning, hook review, loop planning, budget estimation, transcript inspection, and MCP-style tool contracts.
+**[open-ralphglasses](https://github.com/hairglasses/open-ralphglasses)** — sanitized Go control-plane seed for multi-provider AI agent workflows: provider discovery, launch planning, hook review, loop planning, budget estimation, and MCP-style tool contracts.
 
 **[codexkit](https://github.com/hairglasses-studio/codexkit)** — fleet management toolkit for agent repositories: baseline validation, skill-surface sync, MCP/profile projection, and workspace hygiene checks.
 
