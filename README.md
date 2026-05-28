@@ -4,21 +4,27 @@ AI agent infrastructure engineer in San Francisco. I build Go tooling for MCP se
 
 Most production repositories stay private because they contain workstation, account, tenant, or operational details. The public repositories below are sanitized slices that show the engineering patterns without exposing private systems.
 
+### Start Here
+
+| Public proof | What it shows | Recruiter signal |
+| --- | --- | --- |
+| [open-ralphglasses](https://github.com/hairglasses/open-ralphglasses) | Sanitized Go control-plane seed for multi-provider AI agent workflows: provider discovery, launch planning, hook review, loop planning, budget estimation, and MCP-style tool contracts. | Staff-level agent infrastructure, tool governance, trust boundaries, and Go systems design. |
+| [codexkit](https://github.com/hairglasses-studio/codexkit) | Fleet management toolkit for agent repositories: baseline validation, skill-surface sync, MCP/profile projection, provider configuration projection, and workspace hygiene checks. | Multi-repo operational rigor, generated-surface discipline, developer tooling, and reliability automation. |
+| [12-factor-agents](https://github.com/hairglasses/12-factor-agents) | Production-oriented agent-system principles and architecture context. | Product sense around durable, governable, observable LLM-agent systems. |
+
 ### Primary Public Portfolio
 
-**[open-ralphglasses](https://github.com/hairglasses/open-ralphglasses)** — sanitized Go control-plane seed for multi-provider AI agent workflows: provider discovery, launch planning, hook review, loop planning, budget estimation, and MCP-style tool contracts.
+**[open-ralphglasses](https://github.com/hairglasses/open-ralphglasses)** - sanitized Go control-plane seed for multi-provider AI agent workflows: provider discovery, launch planning, hook review, loop planning, budget estimation, and MCP-style tool contracts.
 
-**[codexkit](https://github.com/hairglasses-studio/codexkit)** — fleet management toolkit for agent repositories: baseline validation, skill-surface sync, MCP/profile projection, and workspace hygiene checks.
+**[codexkit](https://github.com/hairglasses-studio/codexkit)** - fleet management toolkit for agent repositories: baseline validation, skill-surface sync, MCP/profile projection, and workspace hygiene checks.
 
 ### Supporting Public Archive
 
-**[dotfiles-mcp](https://github.com/hairglasses-studio/dotfiles-mcp)** — archived public compatibility mirror for a Linux/Wayland desktop automation MCP server; useful for discovery-first MCP contracts and server-card patterns.
+**[dotfiles-mcp](https://github.com/hairglasses-studio/dotfiles-mcp)** - archived public compatibility mirror for a Linux/Wayland desktop automation MCP server; useful for discovery-first MCP contracts and server-card patterns.
 
 ### Related Public Context
 
-The `12-factor-agents`, `awesome-mcp-servers`, and `Awesome-Ghostty` public
-forks reflect agent-system, MCP ecosystem, and terminal/workstation interests.
-They are context and curation, not first-party implementation claims.
+The `12-factor-agents`, `awesome-mcp-servers`, and `Awesome-Ghostty` public forks reflect agent-system, MCP ecosystem, and terminal/workstation interests. They are context and curation, not first-party implementation claims.
 
 ### Focus Areas
 
