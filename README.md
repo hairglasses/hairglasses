@@ -13,7 +13,7 @@ Most production repositories stay private because they contain workstation, acco
 | [open-mcpkit](https://github.com/hairglasses/open-mcpkit) | Public-safe Go reference implementation for MCP-style gateway dispatch, typed tool contracts, middleware chains, review-only policy gates, response budgeting, and CLI smoke checks. | MCP server architecture, local-first safety boundaries, release hygiene, and testable platform primitives. |
 | [open-career-mcp](https://github.com/hairglasses/open-career-mcp) | Synthetic-data career workflow MCP sample: resume tailoring, opportunity review, interview prep, MCP-style manifests, and dry-run approval boundaries. | Public-safe automation design, fixture hygiene, account-connector boundaries, and local-first workflow packaging. |
 | [open-workstation-mcp](https://github.com/hairglasses/open-workstation-mcp) | Public-safe Go sample for Linux/Wayland workstation automation patterns: synthetic readiness snapshots, dry-run focus/input plans, config drift summaries, and response budgeting. | Workstation automation, local-first safety, desktop tooling, and practical MCP ergonomics. |
-| [12-factor-agents](https://github.com/hairglasses/12-factor-agents) | Production-oriented agent-system principles and architecture context. | Product sense around durable, governable, observable LLM-agent systems. |
+| [12-factor-agents](https://github.com/hairglasses/12-factor-agents) | Forked related-context guide for production-oriented agent-system principles. | Product sense around durable, governable, observable LLM-agent systems; not a first-party implementation claim. |
 
 ### Primary Public Portfolio
 
