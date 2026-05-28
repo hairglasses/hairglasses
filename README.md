@@ -10,6 +10,7 @@ Most production repositories stay private because they contain workstation, acco
 | --- | --- | --- |
 | [open-ralphglasses](https://github.com/hairglasses/open-ralphglasses) | Sanitized Go control-plane seed for multi-provider AI agent workflows: provider discovery, launch planning, hook review, loop planning, budget estimation, and MCP-style tool contracts. | Staff-level agent infrastructure, tool governance, trust boundaries, and Go systems design. |
 | [codexkit](https://github.com/hairglasses-studio/codexkit) | Fleet management toolkit for agent repositories: baseline validation, skill-surface sync, MCP/profile projection, provider configuration projection, and workspace hygiene checks. | Multi-repo operational rigor, generated-surface discipline, developer tooling, and reliability automation. |
+| [open-career-mcp](https://github.com/hairglasses/open-career-mcp) | Synthetic-data career workflow MCP sample: resume tailoring, opportunity review, interview prep, MCP-style manifests, and dry-run approval boundaries. | Public-safe automation design, fixture hygiene, account-connector boundaries, and local-first workflow packaging. |
 | [12-factor-agents](https://github.com/hairglasses/12-factor-agents) | Production-oriented agent-system principles and architecture context. | Product sense around durable, governable, observable LLM-agent systems. |
 
 ### Primary Public Portfolio
@@ -17,6 +18,8 @@ Most production repositories stay private because they contain workstation, acco
 **[open-ralphglasses](https://github.com/hairglasses/open-ralphglasses)** - sanitized Go control-plane seed for multi-provider AI agent workflows: provider discovery, launch planning, hook review, loop planning, budget estimation, and MCP-style tool contracts.
 
 **[codexkit](https://github.com/hairglasses-studio/codexkit)** - fleet management toolkit for agent repositories: baseline validation, skill-surface sync, MCP/profile projection, and workspace hygiene checks.
+
+**[open-career-mcp](https://github.com/hairglasses/open-career-mcp)** - synthetic-data career workflow MCP sample for public-safe resume tailoring, opportunity review, interview prep, MCP-style manifests, and dry-run approval boundaries.
 
 ### Supporting Public Archive
 
@@ -30,7 +33,7 @@ The `12-factor-agents`, `awesome-mcp-servers`, and `Awesome-Ghostty` public fork
 
 - Go MCP servers and typed tool contracts
 - Multi-provider agent orchestration across Codex, Claude, Gemini, and Copilot workflows
-- Repo baseline validation, generated config parity, and public/private boundary checks
+- Repo baseline validation, generated config parity, synthetic fixtures, and public/private boundary checks
 - Linux/Wayland automation with discovery-first control surfaces
 - Security-conscious portfolio publishing with sanitized fixtures and no tenant or credential data
 
