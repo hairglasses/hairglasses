@@ -4,6 +4,8 @@ AI agent infrastructure engineer in San Francisco. I build Go tooling for MCP se
 
 Most production repositories stay private because they contain workstation, account, tenant, or operational details. The public repositories below are sanitized slices that show the engineering patterns without exposing private systems.
 
+If you are reviewing from LinkedIn or a resume, start with my GitHub profile and contribution graph: [github.com/hairglasses](https://github.com/hairglasses). It is the quickest way to verify regular build cadence, then the pinned repositories below show the implementation detail.
+
 ### Start Here
 
 | Public proof | What it shows | Recruiter signal |
@@ -45,6 +47,7 @@ The `12-factor-agents`, `awesome-mcp-servers`, and `Awesome-Ghostty` public fork
 
 ### Links
 
+- GitHub profile and contribution graph: [hairglasses](https://github.com/hairglasses)
 - Public showcase: [open-ralphglasses](https://github.com/hairglasses/open-ralphglasses)
 - MCP toolkit sample: [open-mcpkit](https://github.com/hairglasses/open-mcpkit)
 - Workstation MCP sample: [open-workstation-mcp](https://github.com/hairglasses/open-workstation-mcp)
